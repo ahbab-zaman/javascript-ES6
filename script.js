@@ -71,3 +71,25 @@ I love to eat biriyani.
 
 // Problem 6
 
+// const findPositive = (arr) =>{
+//     let newArr = [];
+//     for(item of arr){
+//       if(item > 0){
+//         newArr.push(item)
+//       }
+//     }
+//     return newArr;
+// }
+// console.log(findPositive([-1, 2, -5, 6, 10, -7]))
+
+// Problem 7
+
+// const findLongestWord = (arr) =>{
+//     let longestWord = "";
+//     for(let  i = 0; i < arr.length; i++){
+//         if(arr[i].length > longestWord.length){}
+//         longestWord = arr[i];
+//     }
+//     return longestWord;
+// }
+// console.log(findLongestWord(['ahbab', 'emad', 'talha', 'abdullah', 'ahbabuzzaman']))

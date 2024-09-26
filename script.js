@@ -93,3 +93,24 @@ I love to eat biriyani.
 //     return longestWord;
 // }
 // console.log(findLongestWord(['ahbab', 'emad', 'talha', 'abdullah', 'ahbabuzzaman']))
+
+// destructuring in objects
+// Destructure : It means get the individual value from an object or array.
+
+
+// Object Destructuring 
+// const person = {
+//      name : 'ahbab',
+//      age : 24,
+//      status : 'single',
+//      isStudy : true
+// }
+// const {name, age, status, isStudy} = person;
+// console.log(person);
+
+
+// Array Destructuring
+
+const arr = ['ahbab', user = {name : 'emadul', age : 24 }, 'Web-Developer'];
+const [a, b, c] = arr;
+console.log(arr?[3])

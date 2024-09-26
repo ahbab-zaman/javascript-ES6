@@ -113,4 +113,4 @@ I love to eat biriyani.
 
 const arr = ['ahbab', user = {name : 'emadul', age : 24 }, 'Web-Developer'];
 const [a, b, c] = arr;
-console.log(arr?[3])
+console.log(arr)
